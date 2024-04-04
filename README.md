@@ -2,13 +2,17 @@
 <h3 align="center">An aspirin' programmer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **THE BROKIES**
+-  ☕︎ Currently working on **THE BROKIES**
+  
+- 👨‍💼 Former President at **Kist Computer & IT Society**
 
-- 🌱 I’m currently learning **Django & C++**
+- 📚 Currently learning **Django & Full Stack Dev**
+
+- ⛓ Blockchain Development **SOON !**
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **arjitmagar19@gmail.com**
+- ✉︎ Mail me at  **arjitmagar19@gmail.com**
 
 - ⚡ Fun fact **My body = Coffee > Water**
 
