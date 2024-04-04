@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arjit (ArVin)</h1>
+<h1 align="center"> Bonjour 👋, I'm Arjit (Ar Vin)</h1>
 <h3 align="center">An aspirin' programmer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -16,7 +16,9 @@
 
 - ⚡ Fun fact **My body = Coffee > Water**
 
-<h3 align="left">Connect with me:</h3>
+- Newbie in Github XD 
+
+<h3 align="left">Let's Learn and grow together:</h3>
 <p align="left">
 <a href="https://instagram.com/arjiteyy0_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arjiteyy0_0" height="30" width="40" /></a>
 </p>
