@@ -8,7 +8,7 @@
 
 - 📚 Currently learning **Django & Full Stack Dev**
 
-- ⛓ Blockchain Development **SOON !**
+- ⛓ Software Engineer  **SOON !**
 
 - 💬 Ask me about **Python**
 
