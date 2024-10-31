@@ -4,7 +4,7 @@
 
 -  ☕︎ Currently working on **THE BROKIES**
   
-- 👨‍💼 Former President at **Kist Computer & IT Society**
+- 👨‍💼 Former President at **KIST Computer & IT Society**
 
 - 📚 Currently learning **Django & Full Stack Dev**
 
