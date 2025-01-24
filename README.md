@@ -14,9 +14,9 @@
 
 - ✉︎ Mail me at  **arjitmagar19@gmail.com**
 
-- ⚡ Fun fact **My body = Caffiene > Water**
+- ⚡ Fun fact **My body = Caffeine > Water**
 
-- 
+
 
 <h3 align="left">Let's Learn and grow together:</h3>
 <p align="left">
