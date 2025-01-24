@@ -2,11 +2,11 @@
 <h3 align="center">An aspirin' programmer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
--  ☕︎ Currently working on **THE BROKIES**
+-  ☕︎ "Talk is cheap, show me the code"
   
 - 👨‍💼 Former President at **KIST Computer & IT Society**
 
-- 📚 Currently learning **Django & Full Stack Dev**
+- 📚 Currently learning **Python**
 
 - ⛓ Software Engineer  **SOON !**
 
@@ -14,9 +14,9 @@
 
 - ✉︎ Mail me at  **arjitmagar19@gmail.com**
 
-- ⚡ Fun fact **My body = Coffee > Water**
+- ⚡ Fun fact **My body = Caffiene > Water**
 
-- Newbie in Github XD 
+- 
 
 <h3 align="left">Let's Learn and grow together:</h3>
 <p align="left">
