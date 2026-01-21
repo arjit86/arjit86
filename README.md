@@ -6,10 +6,6 @@
   
 - 👨‍💼 Former President at **KIST Computer & IT Society**
 
-- 📚 Currently learning **Python**
-
-- ⛓ Software Engineer  **SOON !**
-
 - 💬 Ask me about **Python**
 
 - ✉︎ Mail me at  **arjitmagar19@gmail.com**
